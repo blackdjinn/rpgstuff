@@ -1,0 +1,15 @@
+xcrawl4
+=======
+
+Extreme dungeon crawl rules based on D&amp;D 4
+
+
+Intro Snip
+=======
+
+The croud was pumped up.
+The last fight had gone well, and those with a lot of mooks were the best place to show off, dozens of corpses lined the floor of the passageway they'd been guarding.
+The probem was that mooks were there to deplete resources, make you waste your bag of tricks, be down when the /real/ fight started.
+
+We all turn as the door at the end of the passageway flies off its hinges, charring itself to ash.
+I heard Randy say `Fuck! Dragon!' before the sensation of heat rippled over my skin...

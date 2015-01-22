@@ -1,0 +1,34 @@
+++ Gale Hightower
+
+[[file Gale%20Hightower.pdf]]
+
+Kenku, Sorcerer
+Spell Source: Wild Magic
+
+FINAL ABILITY SCORES
+Str 11, Con 10, Dex 16, Int 10, Wis 8, Cha 20.
+
+STARTING ABILITY SCORES
+Str 11, Con 10, Dex 14, Int 10, Wis 8, Cha 18.
+
+
+AC: 13 Fort: 10 Reflex: 13 Will: 17
+HP: 22 Surges: 6 Surge Value: 5
+
+TRAINED SKILLS
+Arcana +5, Insight +4, Intimidate +10, Bluff +12
+
+UNTRAINED SKILLS
+Acrobatics +3, Diplomacy +5, Dungeoneering -1, Endurance, Heal -1, History, Nature -1, Perception -1, Religion, Stealth +5, Streetwise +5, Thievery +3, Athletics
+
+FEATS
+Level 1: Sorcerous Blade Channeling
+
+POWERS
+Sorcerer at-will 1: Storm Walk
+Sorcerer at-will 1: Chaos Bolt
+Sorcerer encounter 1: Bedeviling Burst
+Sorcerer daily 1: Chromatic Orb
+
+ITEMS
+Dagger, Adventurer's Kit, Journeybreads (10), Oil (1 pint)

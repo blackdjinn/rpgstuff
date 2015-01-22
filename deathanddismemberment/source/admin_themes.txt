@@ -1,0 +1,11 @@
+[[div style="max-width:750px"]]
+
+[[include :modules:include:15 prepend=--] ]]
+
+[[code type="css"]]
+@import url(http://themes.wikidot.com/sky-blue/code/3);
+[[/code]]
+
+[[include :modules:include:15 append=--] ]]
+
+[[/div]]

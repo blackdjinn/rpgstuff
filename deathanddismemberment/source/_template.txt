@@ -1,0 +1,4 @@
+[[module css]]
+#page-content { min-height:600px; }
+[[/module]]
+%%content%%

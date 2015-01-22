@@ -1,0 +1,36 @@
+A Fourth Edition Dungeons And Dragons game.
+[[toc]]
++ Setting
+The setting I'm using has a simple rule: it's like fantasy Europe/Asia/Africa with the default setting stuff bolted on. Cultures resembling those of 12-14th century Earth are out there for you to invent and toy with. If you want help coming up with stuff, just ask.
+
+Qulunin (KOO-luh-neen) is the name of the world, a name old enough that the word exists in every language found upon it, tho there is some shift in that pronunciation.
+++ Historical Notes
+Qulunin is not alone in the cosmos. Once, in a past now legend, a vast civilization spanned a thousand  worlds and more. The riches of this lost age are still out there, the knowledge and secrets wait to be found. Sometimes, someone finds something, and things change.
++ House Rules
+The following are rules variations from the stock game.
+: **The Underdark** : The Underdark is a separate realm/dimension like the Shadowfell or Feywild. This really makes so many things make more sense...
+: **Fetishes** : Weapons and armor themselves are not enchanted. You bind/attach a fetish item to them, giving any weapon/armor eligible for the particular enhancement those properties. Because having to switch out your family's heirloom sword for another one because the bonuses are better is lame.
+: **Psionics** : The classes and races from PHB-3 are off limits. My apologies, but they don't feel right to me and the cognitive dissonance is distracting when I run.
+: **[[[Languages]]]** : We use a more complex (and less feat-heavy) language system. Various cultures have their own language. There is also a trade creole (Called Common because I don't feel like being that different,) that PCs and many NPCs speak. See the page above (when its ready) for details. I'll try and keep it out of your way as much as possible.
+
++ Characters
+4e characters are **heroes**, which is to say they are bigger, flashier, and just flat out more awesome than the people around them. There are no NPCs anywhere with levels in PC classes. Not even the 'final boss'. They work by a more limited, less flexible set of rules.
+
+* Standard rules from core books is good. Anything else, run by me. See notes above.
+* 22 point buy for stats, 1st level, 100gp starting gear.
+* You may find this template useful: [http://deathanddismemberment.wikidot.com/local--files/start/4eWorksheet.ots OpenDoc Template] -- version 2.0.1
+* You can get the software to use it at [http://www.libreoffice.org LibreOffice]
+
+++ Cast
+: [[[pc:Tester]]] : An example character. He's a blood-elf mohawk named 'Tester'.
+: [[[pc:Elena Lockhart]]] : Half-Elf Protector Paladin (Divine Defender)
+: [[[pc:(phiplayer)]]] : Gnome Bard (Arcane Leader)
+: [[[pc:(maddyplayer)]]] : ???
+: [[[pc:Ta'pal Starfall]]] : Eladrin Avenger (Divine Melee Striker)
+: [[[pc:(thedraplayer)]]] : Ranger (Ranged Striker)
+: [[[pc:Gale Hightower]]] : Kenku Sorcerer (Arcane Striker)
+: [[[pc:(snapsplayer)]]] : ???
+: [[[pc:(minahplayer)]]] : Controller?
++ Places
+: [[[place:Alba]]] : resembles post-Norman Conquest England.
+: [[[place:Shuriman]]] : A wealthy empire astride the trade-routes to the East. (Persia)

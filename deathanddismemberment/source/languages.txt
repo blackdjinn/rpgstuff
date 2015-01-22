@@ -1,0 +1,22 @@
++ Rules
+* If a character starts with 'Common' they also speak the prevalent language of the land they are from.
+* Being trained in the following skills grants you languages:
+ * Arcana - Draconic
+ * Dungeoneering - Undercommon
+ * History - Pick one
+ * Nature - Elvish
+ * Religion - Abyssal or Celestial (your choice.)
+* You can request other languages along with your background.
++ List
+
+||~ Lang. ||~ Script ||~ Description ||
+|| Albian || Courthand || The naive tongue of the Land of Alba ||
+|| Shuriani || Brahmi || The native tongue of the Shuriman Sultanate. ||
+|| Common || Shorthand || A creole of several languages that has evolved from a trade pidgin. ||
+|| Abyssal || Hieratic || The speech of demons and devils. ||
+|| Celestial || Hieratic || The speech of bright beings. ||
+|| Elvish || Rellanic || The language of the Feywild and those native to that realm. ||
+|| Undercommon || Nuuz || The speech of those who dwell in the Underdark. ||
+|| Draconic || Nuuz || Dragons, kobolds etc, oh my! ||
+
+Still more....

@@ -1,0 +1,14 @@
+Please customize this page with information about you and/or your site.
+
+
+In the meantime, here is some useful information about this site and how it's been set-up.  This is your owner's manual, if you like.  When you've read it you can probably delete it:
+
+* To manage your site choose Admin | Manage Site from the top menu.
+* To change the theme of your site, read the [[[admin:themes]]] page.
+
+These Wikidot users contributed to the making of this template:
+
+* [[user gerdami]]
+* [[user leiger]]
+* [[user pieterh]]
+* [[user suef]]

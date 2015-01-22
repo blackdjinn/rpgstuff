@@ -1,0 +1,20 @@
+[[module Join button="Join this site"]]
+
+[[module NewPage size="20" button="New page"]]
+
+**[/legal:start Legal] | [/about About] | [/contact Contact]**
+
+[[button tags text="Tags"]] | [[button edit text="Edit"]] | [[button source text="Source"]] | [[button print text="Print"]]
+
+**Page tags**
+
+[[module TagCloud minFontSize="80%" maxFontSize="200%"  maxColor="8,8,64" minColor="100,100,128" target="system:page-tags" limit="30"]]
+
+[!-- Google translate from English (see 'up_source_language=en' below) --]
+[[embed]]
+<script src="http://www.gmodules.com/ig/ifr?url=http://www.google.com/ig/modules/translatemypage.xml&up_source_language=en&w=160&h=60&title=&border=&output=js"></script>
+[[/embed]]
+
+**Watchers**
+
+[[module Watchers]]

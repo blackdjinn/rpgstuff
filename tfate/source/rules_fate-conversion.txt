@@ -1,0 +1,31 @@
+Running OTU games on FATE.
+[[toc]]
++ Universe Aspects
++ Skill List
+Some of these skills have odd names. This is for historical reasons. If explanations are requested, I can provide them. Since most characters are assumed to have a military or paramilitary background, the skills will reflect that. If there is a gap, let me know.
+
+: **Melee** : Hand held, natural or improvised weapons.
+: **Small Arms** : Hand held ranged weapons.
+: **Kinethetics** : Dodge and weave. Motion and control of your body.
+: **Gunnery** : Vehicle mounted and emplaced weapons. Cannons, catapults etc.
+: **Carousing** : This is the basic 'social networking' skill. Gathering rumors, etc.
+: **Engineer** : Care, feeding, and construction of machines... like those that make your space-ship work.
+: **Pilot** : Applies to space-ships and other sorts of vehicles.
+: **Admin** : This skill is useful for navigating beurocracy, filling out forms, greasing palms, and any other bits of paperwork
+: **Broker** : Making deals, cutting contracts, finding the best price on plasma grenades.
+: **Vacc Suit** : Zero-G and hazardous environment operations.
+: **Liason** : Winning freinds and influencing people. The science of social and psychological manipulation.
+: **Hide & Sneak** : The art of remaining unseen or un-noticed. This extends to camoflauge of vehicles as well.
+: **Academics** : Book learning. In the high-tech societies of the Far Future, autodidacts with no formal school experience are not uncommon.
+: **Observer** : Not just seeing, but making sense of what you see.
+: **Leader** : The ability to shout "Follow me!" and have people actually do it. 
+: **Technical** : Operate machines, including operating them outside their intended parameters (picking a lock for example.)
+: **Professional** : The skill of monetizing your talents. This often relates to general performance.
+: **Survival** : The art of making do without industry or technology. It includes things like modes of travel.
+: **Tactics** : Logistics, understanding fluid situations and interpreting intelligence. This includes playing most games of skill to win.
++ Stunts
+++ Service Stunts
+There are classic abilities that the specialized training avilable in various Imperial services provides.
+: **Scouts** - Jack Of All Trades : The members of the ISS are famous for their ability to jerry-rig solutions and simply get something to work, tho often just long enough for it to matter.
+++ Psionics
++ Ship Conflicts

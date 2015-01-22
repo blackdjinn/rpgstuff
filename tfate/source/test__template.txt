@@ -1,0 +1,32 @@
+[[div style="float:right; width: 200px; border: 1px solid #999; margin: 10px;"]]
+%%content{1}%%
+[[/div]]
+
+%%content{2}%%
+
+[[table]]
+[[row]]
+[[column]]
+%%content{3}%%
+[[/column]]
+[[column]]
+%%content{4}%%
+[[/column]]
+[[/row]]
+[[/table]]
+
+==== 
+
+This will be content of the side bar.
+
+==== 
+
+The main content.
+
+==== 
+
+This will go into the left cell of the table.
+
+==== 
+
+And this into the right cell.

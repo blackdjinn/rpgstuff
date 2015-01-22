@@ -1,0 +1,9 @@
++ Who can join?
+
+People playing in the game this site belongs to should get invitations, or you can sign up below.
+
++ Join!
+
+So you want to become a member of this site? 
+
+[[module Join]]

@@ -1,0 +1,26 @@
+++ If this is your first site
+
+Then there are some things you need to know:
+
+* You can configure all security and other settings online, using the [[[admin:manage | Site Manager]]].  When you invite other people to help build this site they don't have access to the Site Manager unless you make them administrators like yourself.  Check out the //Permissions// section.
+* Your Wikidot site has two menus, [[[nav:side | one at the side]]] called '{{nav:side}}', and [[[nav:top | one at the top]]] called '{{nav:top}}'.  These are Wikidot pages, and you can edit them like any page.
+* To edit a page, go to the page and click the **Edit** button.  You can change everything in the main area of your page.  The Wikidot language is [*http://www.wikidot.com/doc easy to learn but powerful].
+* You can attach images and other files to any page, then display them and link to them in the page.
+* Every Wikidot page has a history of edits, and you can undo anything.  So feel secure, and experiment.
+* You can [*http://www.wikidot.com/themes:preview choose different themes] in the Site Manager, and you can write your own theme if you know CSS.
+* To start a forum on your site, see the [[[admin:manage | Site Manager]]] >> //Forum//.
+* If you want to learn more, make sure you visit the [*http://www.wikidot.com/doc Documentation section at www.wikidot.com]
+
+++ If you've already created other sites
+
+Then we don't need to tell you how addictive Wikidot is.  But maybe it's worth reminding you of some of the advanced Wikidot features:
+
+* You can run your Wikidot site on its own web domain name.
+* You can use Google Analytics to measure traffic going to your site.
+* We are also offering you a way to earn money from your wiki using our advertising implementation (feature available for **Pro accounts**).
+
+We hope you enjoy using Wikidot as much as we do.  If you want to discuss Wikidot, there's an [*http://community.wikidot.com/ active community of Wikidot enthusiasts where you can share tips and ideas].
+
+++ Pro accounts start at $49.90 per year
+
+If you do not have a Pro account yet, check out the [http://www.wikidot.com/plans our subscription plans] and see which upgrade plan fits you most.

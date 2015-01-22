@@ -1,0 +1,29 @@
+[[toc]]
+
++ News
+: 1/10/11 : Just getting things started.
++ Introduction
+This game takes place in the Spinward Marches, a frontier sector of the Third Imperium. The game begins in IY-1105.
+
+The Marches are one of the most recent additions to Imperial territory. The sector borders on the Zhodani Consulate to Spinward (the direction of the galaxy's rotation) and the Vargr toward the galactic core. Rim/tailing is a rift of sparse stars crossable only by the 'fastest' interstellar vessels. Rim/spinward is a section of unaligned (tho populated) frontier.
+
+The two large empires have had a number of wars (four to date) and the modern borders are the result of them. A large independent nation, the Sword-World Confederation, borders on both, tho since the Zhodani interest in the sector favor independence, there is a strong leading toward cooperation with the Consular rather than Imperial agendas.
+
+The game itself will be run using the FATE Core Playtest rules set, with some appropriation of systems from other versions of Traveller (High Guard in particular.) The PCs will be retainers of an eccentric nobleman and form along the lines of an 'ops team' as portrayed on, say, Leverage.
++ Resources
+* [[[setting:OTU Overview]]]
+* [[[rules:FATE Conversion]]]
++ Characters
+++ NPCs
+: [[[NPC:Commander Marquis Thariin Drommondel IV]]] : Your boss, the Marquis of [[[world:Moughas]]]
+++ PCs
+: [[[PC:Joe Template]]] : A sample you can use.
++ Worlds
+: [[[world:Moughas]]]/Regina (Spinward Marches 2406) CA5A588-B Ni Wa G : Home base.
++ Special Equipment
+++ Vehicles
+: [[[ship:Quetzlcoatl]]] : Serpent class type S scout.
+: [[[ship:Hazel Stone]]] : 800t Gazelle class Close Escort.
++ Game
+# [[[play:Character Creation]]]
+# [[[play:Introductions]]]

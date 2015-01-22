@@ -1,0 +1,31 @@
+[[File Elena Lockhart.pdf]]
+
+Half-Elf, Paladin
+
+FINAL ABILITY SCORES
+Str 10, Con 13, Dex 10, Int 8, Wis 14, Cha 20.
+
+STARTING ABILITY SCORES
+Str 10, Con 11, Dex 10, Int 8, Wis 14, Cha 18.
+
+AC: 20 Fort: 12 Reflex: 13 Will: 16
+HP: 28 Surges: 11 Surge Value: 7
+
+TRAINED SKILLS
+Diplomacy +12, Heal +7, Insight +9, Religion +4
+
+UNTRAINED SKILLS
+Acrobatics 0 (-4), Arcana -1, Athletics 0 (-4), Bluff +5, Dungeoneering +2, Endurance 1 (-3), History -1, Intimidate +5, Nature +2, Perception +2, Stealth 0 (-4), Streetwise +5, Thievery 0 (-4)
+
+FEATS
+Level 1: Healing Hands
+
+POWERS
+Paladin at-will 1: Bolstering Strike
+Paladin at-will 1: Enfeebling Strike
+Paladin encounter 1: Shielding Smite
+Bard encounter 1: Guiding Strike
+Paladin daily 1: On Pain of Death
+
+ITEMS
+Longsword, Plate Armor, Heavy Shield, Holy Symbol, Adventurer's Kit (sans rope)

@@ -1,0 +1,28 @@
+Eladrin, Avenger
+
+FINAL ABILITY SCORES
+Str 10, Con 12, Dex 15, Int 13, Wis 18, Cha 8
+
+STARTING ABILITY SCORES
+Str 10, Con 12, Dex 13, Int 11, Wis 18, Cha 8
+
+AC: 18 Fort: 12 Reflex: 13 Will: 16
+HP: 26 Surges: 8 Surge Value: 6
+
+TRAINED SKILLS
+Endurance +6, Perception +9, Religion +6, Stealth +12
+
+UNTRAINED SKILLS
+Acrobatics +2, Arcana +3, Athletics +0, Bluff -1, Diplomacy -1, Dungoneering +4, Heal +4, History +3, Insight +4, Intimidate -1, Nature +4, Streetwise -1, Thievery +2
+
+FEATS
+Level 1: Improved Armor of Faith
+
+POWERS
+Avenger at-will 1: Bond of Pursuit
+Avenger at-will 1: Overwhelming Strike
+Avenger encounter 1: Angelic Alacrity
+Avenger daily 1: Aspect of Might
+
+ITEMS
+Greatsword (1d10), Leather Armor, Holy Symbol, Adventurer's Kit, 20gp

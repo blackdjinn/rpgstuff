@@ -1,0 +1,23 @@
++ %%name%%
+%%name%% (%%content{1}%%) %%content{2}
+
++ Summary
+%%content{3}%%
++ Notes
+%%content{4}%%
+
+====
+
+location
+
+====
+
+UWP
+
+====
+
+Summary
+
+====
+
+description text

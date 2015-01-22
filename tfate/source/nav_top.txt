@@ -1,0 +1,9 @@
+* [# example menu] 
+ * [[[example item 1]]]
+ * [[[example item 2]]]
+* [[[contact]]]
+
+[!--
+Please do not include anything other than links within the bullet list.
+Do not go deeper than 1 level with nesting.
+--]

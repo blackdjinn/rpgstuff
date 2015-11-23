@@ -6,3 +6,4 @@ A collection of RPG projects
 * lapea - Naruto/Wu-Xia style D&D4 world.
 * tfate - Using FATE in an OTU game.
 * xcrawl4 - Meta D&D4 where Dungeoneering is an extreme sport.
+* ring - Wagnerian Space Opera.
